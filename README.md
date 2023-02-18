@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👀 I'm @JoaozinhoVicente
+- 👀 I'm @JoaoVicente2007
 - 🔭 I’m currently Studying on IFPR
 - 🌱 I’m currently learning web development
 - 🏎️ I love Cars and Motosport
