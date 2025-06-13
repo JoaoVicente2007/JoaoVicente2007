@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👀 I'm @JoaoVicente2007
 - 🔭 I’m currently Studying on IFPR
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Backend
 - 🏎️ I love Cars and Motosport
 - 📫 How to reach me:
 
